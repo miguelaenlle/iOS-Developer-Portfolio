@@ -10,6 +10,8 @@ https://youtu.be/Z_0V_Vwo9HE
 Lending process demo
 https://youtu.be/z-MGnwOSexo 
 
+__
+
 #### 🔨 Features and Technologies:
 - Written fully in Swift with SwiftUI
 - MVVM app architecture
@@ -39,6 +41,8 @@ The process for posting items goes as follows:
 
 4. Post the listing
 
+__
+
 #### 💳 User purchase flow
 
 
@@ -51,6 +55,8 @@ The process for initiating a rental session goes as follows:
 3. Attach a Credit Card
 
 4. Rent out the item
+
+__
 
 #### 🤝 Rental Session protocol:
 
