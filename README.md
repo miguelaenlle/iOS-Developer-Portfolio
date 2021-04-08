@@ -6,9 +6,9 @@ Rentr is a P2P marketplace that allows users to securely rent out almost anythin
 
 #### Demo
 Rental process demo
-![]( https://youtu.be/Z_0V_Vwo9HE ) 
+https://youtu.be/Z_0V_Vwo9HE 
 Lending process demo
-![]( https://youtu.be/z-MGnwOSexo )
+https://youtu.be/z-MGnwOSexo 
 
 #### Context
 
