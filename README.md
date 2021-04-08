@@ -12,6 +12,9 @@ Process of posting an item to be rented
 https://youtu.be/z-MGnwOSexo 
 
 __
+#### My Role
+Lead developer working with client and 2 other devs to build
+this out
 
 #### 🔨 Features and Technologies:
 - Written fully in Swift with SwiftUI
