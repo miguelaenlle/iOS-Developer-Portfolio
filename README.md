@@ -24,6 +24,7 @@ The process for initiating a rental session goes as follows:
 4. Rent out the item
 
 ##### Rental Session protocol:
+Terminology: 
 Renter = Person renting the item
 Lender = Person lending out the item
 When two renters/lenders are in a transaction, the process goes as follows:
