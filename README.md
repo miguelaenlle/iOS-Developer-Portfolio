@@ -10,9 +10,23 @@ https://youtu.be/Z_0V_Vwo9HE
 Lending process demo
 https://youtu.be/z-MGnwOSexo 
 
-#### Context
+#### 🔨 Features and Technologies:
+- Written fully in Swift with SwiftUI
+- MVVM app architecture
+- Backend in Firebase and Node (for plaid and stripe)
 
-#### Posting items
+- Signup: GoogleSignIn and Firebase Auth
+- Add Listing: AVFoundation, Plaid 
+- SearchView: Algolia, CoreLocation
+- Item Interaction: CoreLocation, Firebase Storage, MapKit, Stripe
+- Chats: Firebase Database, Stripe (payouts), AVFoundation, QRCode, LocationPicker
+
+
+#### 📖 Context
+
+#### ➕ Posting items
+
+
 The process for posting items goes as follows:
 
 1. Add the item's details
@@ -23,7 +37,9 @@ The process for posting items goes as follows:
 
 4. Post the listing
 
-#### Renting items
+#### 💳 User purchase flow
+
+
 The process for initiating a rental session goes as follows:
 
 1. Select the item
@@ -34,7 +50,9 @@ The process for initiating a rental session goes as follows:
 
 4. Rent out the item
 
-#### Rental Session protocol:
+#### 🤝 Rental Session protocol:
+
+
 Terminology: 
 
 Renter = Person renting the item
@@ -56,16 +74,5 @@ When two renters/lenders are in a transaction, the process goes as follows:
 6. They scan QR codes to confirm in our database that the renter returned the item to the lender
 
 7. The lender is paid out on the QR code scan
-
-#### Features and Technologies:
-- Written fully in Swift with SwiftUI
-- MVVM app architecture
-- Backend in Firebase and Node (for plaid and stripe)
-
-- Signup: GoogleSignIn and Firebase Auth
-- Add Listing: AVFoundation, Plaid 
-- SearchView: Algolia, CoreLocation
-- Item Interaction: CoreLocation, Firebase Storage, MapKit, Stripe
-- Chats: Firebase Database, Stripe (payouts), AVFoundation, QRCode, LocationPicker
 
 
