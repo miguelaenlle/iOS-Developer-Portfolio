@@ -22,7 +22,6 @@ https://youtu.be/z-MGnwOSexo
 - Chats: Firebase Database, Stripe (payouts), AVFoundation, QRCode, LocationPicker
 
 
-#### 📖 Context
 
 #### ➕ Posting items
 
