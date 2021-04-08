@@ -12,8 +12,7 @@ https://youtu.be/z-MGnwOSexo
 
 #### Context
 
-##### Posting items
-
+#### Posting items
 The process for posting items goes as follows:
 
 1. Add the item's details
@@ -21,8 +20,7 @@ The process for posting items goes as follows:
 3. Attach a bank account
 4. Post the listing
 
-##### Renting items
-
+#### Renting items
 The process for initiating a rental session goes as follows:
 
 1. Select the item
@@ -30,8 +28,7 @@ The process for initiating a rental session goes as follows:
 3. Attach a Credit Card
 4. Rent out the item
 
-##### Rental Session protocol:
-
+#### Rental Session protocol:
 Terminology: 
 
 Renter = Person renting the item
