@@ -1,7 +1,14 @@
 
 ## Rentr is a fullstack iOS app made using **SwiftUI** and **Firebase**
 Rentr is a P2P marketplace that allows users to securely rent out almost anything, similar to fatllama.com.
+
+#### Demo
+
+https://youtu.be/Z_0V_Vwo9HE Rental process (both ends) demo
+https://youtu.be/z-MGnwOSexo Lending process demo
+
 #### Context
+
 ##### Posting items
 The process for posting items goes as follows:
 1. Add the item's details
@@ -27,11 +34,6 @@ When two renters/lenders are in a transaction, the process goes as follows:
 5. The other party accepts that request
 6. They scan QR codes to confirm in our database that the renter returned the item to the lender
 7. The lender is paid out on the QR code scan
-
-#### Demo
-
-https://youtu.be/Z_0V_Vwo9HE Rental process (both ends) demo
-Lending process demo
 
 #### Features and Technologies:
 - Written fully in Swift with SwiftUI
