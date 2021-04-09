@@ -1,6 +1,7 @@
 
 ## Rentr 
 Rentr is a P2P marketplace that allows users to securely rent out almost anything, similar to fatllama.com.
+https://github.com/bot-developer3/RentrSwiftUI
 
 ![](https://raw.githubusercontent.com/bot-developer3/iOS-Developer-Portfolio/main/banner.png)
 
@@ -13,7 +14,7 @@ https://youtu.be/z-MGnwOSexo
 
 __
 #### My Role
-Lead developer working with client and 2 other devs to build
+Lead developer working with client and 3 other devs to build
 this out
 
 #### 🔨 Features and Technologies:
