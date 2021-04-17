@@ -24,5 +24,7 @@ this out
 - Chats: Firebase Database, Stripe (payouts), AVFoundation, QRCode, LocationPicker
 
 
+## Scraping Projects
+Rentr is a P2P marketplace that allows users to securely rent out almost anything, similar to fatllama.com.
 
 
