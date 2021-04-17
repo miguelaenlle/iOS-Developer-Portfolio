@@ -16,8 +16,8 @@ this out
 
 - Signup: GoogleSignIn and Firebase Auth
 - Add Listing: AVFoundation, Plaid 
-- SearchView: Algolia, CoreLocation
-- Item Interaction: CoreLocation, Firebase Storage, MapKit, Stripe
+- Item Search: Algolia, CoreLocation
+- Item Detail View: CoreLocation, Firebase Storage, MapKit, Stripe
 - Chats: Firebase Database, Stripe (payouts), AVFoundation, QRCode, LocationPicker
 
 
