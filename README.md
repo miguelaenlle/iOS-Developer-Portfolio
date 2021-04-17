@@ -1,7 +1,5 @@
 ## Fullstack App Development -- Cumultative Demo
-Rentr is a P2P marketplace that allows users to securely rent out almost anything, similar to fatllama.com.
-
-![](https://github.com/bot-developer3/iOS-Developer-Portfolio/blob/main/banner.png)
+Rentr is a P2P marketplace that allows users to rent anything or lend anything
 
 #### Demo Video
 https://www.youtube.com/watch?v=YQp2CncLFQ4
