@@ -4,7 +4,6 @@ Rentr is a P2P marketplace that allows users to rent anything or lend anything
 #### Demo Video
 https://www.youtube.com/watch?v=YQp2CncLFQ4
 
-__
 #### My Role
 Lead developer working with client and 3 other devs to build
 this out
