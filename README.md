@@ -1,5 +1,4 @@
-
-## Rentr 
+## Fullstack App Development -- Cumultative Demo
 Rentr is a P2P marketplace that allows users to securely rent out almost anything, similar to fatllama.com.
 
 ![](https://github.com/bot-developer3/iOS-Developer-Portfolio/blob/main/banner.png)
@@ -24,7 +23,27 @@ this out
 - Chats: Firebase Database, Stripe (payouts), AVFoundation, QRCode, LocationPicker
 
 
-## Scraping Projects
-Rentr is a P2P marketplace that allows users to securely rent out almost anything, similar to fatllama.com.
+## Data Mining/Automation Projects
+
+~12 years of Financials Data from the SEC EDGAR database for 3000+ stocks
+https://www.reddit.com/r/algotrading/comments/hxzt8f/i_scraped_12_years_of_financials_data_from_the/
+
+4m+ Stock News articles for 6000 stocks since 2009 + included scripts for getting realtime news data
+https://www.reddit.com/r/algotrading/comments/hl3x5j/i_compiled_data_for_4m_stock_news_articles_for/
+
+Reuters news data for 3500+ stocks
+https://www.reddit.com/r/algotrading/comments/gt3o2d/i_compiled_reuters_news_data_for_3500_stocks/
+
+## Certifications
+
+Machine Learning by Stanford
+https://www.coursera.org/account/accomplishments/verify/46L2FGHYFYB9?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course
+
+IBM AI Engineering
+https://www.coursera.org/account/accomplishments/specialization/certificate/5K2M9G2THB6Z
+
+
+
+
 
 
